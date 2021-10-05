@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/drawable/bg_edit_text.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/activity_anuncios.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/activity_cadastrar_anuncio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/activity_cadastro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/activity_detalhes_produto.xml" value="0.536" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/activity_meus_anuncios.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/adapter_anuncio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/content_meus_anuncios.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/dialog_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ruan7/AndroidStudioProjects/OLX/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
